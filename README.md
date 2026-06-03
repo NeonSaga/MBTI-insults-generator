@@ -23,5 +23,10 @@ Learning backend with boring projects is painful
 
 Humor makes coding tolerable
 
+Docker commands:
+
+docker build -t mbti-roaster .
+docker run -p 3000:3000 mbti-roaster
+
 Roasting fictional personality boxes is oddly satisfying.
 Cheers!
